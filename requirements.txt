@@ -1,0 +1,25 @@
+# LangChain Core - Latest versions with pre-built wheels
+langchain
+langchain-core
+langchain-community
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Environment Variable Management
+python-dotenv
+
+# Web Interface
+streamlit
+
+# API calls
+requests
+
+# NumPy
+numpy
+
+# Additional utilities for ML
+scikit-learn
